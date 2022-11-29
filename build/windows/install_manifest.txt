@@ -1,0 +1,13 @@
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/assets/fonts/Roboto-Regular.ttf
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/assets/images/FundoeVetSIS.png
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/assets/images/logo.png
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/Computacao/Documents/flutter/flutter_application/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
