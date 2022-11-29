@@ -7,20 +7,20 @@ class Login extends StatelessWidget {
   Widget build(BuildContext context) {
     final ButtonStyle flatButtonStyle = TextButton.styleFrom(
       foregroundColor: Colors.white,
-      backgroundColor: Colors.blue,
+      backgroundColor: Colors.deepOrange,
       minimumSize: const Size(150, 36),
       shape: const RoundedRectangleBorder(
           borderRadius: BorderRadius.all(Radius.circular(18.0)),
-          side: BorderSide(color: Colors.blue)),
+          side: BorderSide(color: Colors.red)),
     );
 
     return Scaffold(
-      backgroundColor: Colors.blueGrey,
+      backgroundColor: Colors.amber,
       resizeToAvoidBottomInset: false,
       body: Container(
         decoration: const BoxDecoration(
             image: DecorationImage(
-                image: AssetImage("assets/images/FundoeVetSIS.png"),
+                image: AssetImage("assets/images/Fundo-lilas.png"),
                 fit: BoxFit.cover)),
         child: Column(
           children: <Widget>[
@@ -101,12 +101,12 @@ class Login extends StatelessWidget {
                     child: Align(
                         alignment: FractionalOffset.bottomRight,
                         child: Text(
-                          "A saúde dos \n seus pets\n em suas mãos!",
+                          "",
                           textAlign: TextAlign.right,
                           style: TextStyle(
                               fontFamily: "Roboto",
                               fontSize: 25,
-                              color: Color.fromARGB(255, 145, 210, 232)),
+                              color: Color.fromARGB(0, 0, 0, 0)),
                         ))))
           ],
         ),
